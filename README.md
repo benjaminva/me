@@ -25,8 +25,8 @@ lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benj
 
 # Experiencia Laboral
 
-- Profesor de planta en el Departamento de Computación Escuela de Ingeniería y Ciencias Tecnológico de Monterrey Campus Querétaro (2016 - Actual)
-- Profesor de cátedra en el Departamento de Computación Escuela de Ingeniería y Ciencias Tecnológico de Monterrey Campus Querétaro (2010 - 2016)
+- Profesor de planta en el departamento de computación del Tecnológico de Monterrey - Campus Querétaro (2016 - Actual)
+- Profesor de cátedra en el departamento de computación del Tecnológico de Monterrey - Campus Querétaro (2010 - 2016)
 - Asistente de Investigación grupo DASL4LTD Querétaro (2008 - 2010)
 - Desarrollador y socio de Scriptorium despacho de desarrollo WEB (2008 - 2010)
 - Prácticante Mars Electronic International (2006 - 2007) 
