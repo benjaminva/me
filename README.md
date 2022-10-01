@@ -1,8 +1,7 @@
 # Información General
 Actualmente soy Profesor deocente de tiempo completo en Querétaro en el Tec de Monterrey. Mi formación básica es como Ingeniero en Sistemas Computacionales (ISC) del Tec de Monterrey Campus Querétaro. Al graduarme en 2007 entré a trabajar en un laboratorio de investigación que se enfocaba en el desarrollo de tecnologías para la educación. Ahí trabajé 2 años en modelos computacionales para representar el conocimiento y habilidades haciendo uso de esquemas xmls. A la par, estudié una maestría en Administración de Tecnologías de Información en la Universidad Virtual, y al terminar en 2010, entré a formar parte del programa de becarios CONACYT para estudiar el Doctorado en Ciencias Computacionales en el Tec de Monterrey Campus Estado de México. Para el doctorado estuve colaborando con investigadores de la Universidad de Sussex en Reino Unido para realizar un análisis de la forma en la que agentes tutores inteligentes (Intelligent Tutoring Sytems) representan información sobre los estudiantes que interactúan con ellos. Durante el doctorado realicé estancias de investigacion en Universidad de Sussex. Durante el doctorado estuve trabajando como profesor de cátedra y al terminar en 2016 me integré al deaprtamento de computación del campus Querétaro como profesor de tiempo completo.
 
-Aunque me gusta viajar y a lo largo de mi vida académica y profesional he vivido en varios paises y ciudades por medio de intercambios o estancias, me gusta vivir en México y en particular Quéretaro. De manera resumida he vivido en Ciudad de México (antes D.F.), Estado de México, Boulder Colorado (U.S.A.), Praga (República Checa), Brighton (Inglaterra), Berkeley (U.S.A.), entre otros. 
-
+A lo largo de mi vida académica y profesional he vivido en varios paises y ciudades por medio de intercambios o estancias, pero me gusta más vivir en México y en particular Quéretaro. De manera resumida he vivido en Ciudad de México (antes D.F.), Estado de México, Boulder Colorado (U.S.A.), Praga (República Checa), Brighton (Inglaterra), Berkeley (U.S.A.), entre otros. 
 
 # Contacto
 bvaldesa@tec.mx
@@ -13,11 +12,12 @@ bvaldesa@tec.mx
 lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benjamin-Valdes-2)
 
 ## Intereses:
+
 - Inteligencia Artificial enfocada a la educación.
 - Video Juegos Serios.
 - Técnicas de transferencia de conocimiento y desarrollo basadas en juegos.
 
-# Formación
+# Formación Académica
 
 - Doctorado en Ciencias Computacionales   ITESM CEM (2016)
 - Maestro en Administración de Teconologías de Información ITESM UV (2010)
@@ -65,6 +65,10 @@ lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benj
   - Estructuras de Datos
   - Lenguajes de Programación
   
+# Proyectos Previos
+
+- Creador y organizador de Kuxtal concurso para desarrollo de video juego serios para enseñar a niños pequeños habilidades de supervivencias. Este proyecto fue realizado en coolaboración con grupo CADENA (organización de rescatistas y apoyo a zonas de desastres) y el CENAPRED (Centro Nacional Para la Prevención de Desastres).   [Kuxtal](http://kuxtalvideojuegos.weebly.com/)  (2016)
+
 # Hobbies
 el gato  | juegos de rol | juegos de mesa
 juegos de video | novelas | series
