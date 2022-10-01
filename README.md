@@ -26,10 +26,15 @@ lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benj
 # Experiencia Laboral
 
 - Profesor de planta en el departamento de computación del Tecnológico de Monterrey - Campus Querétaro (2016 - Actual)
+  - Diseño e Impartición de cursos Tec 20, Tec 21: Bloques, Semanas Tec, Semanas I, Concentración, etc...
 - Profesor de cátedra en el departamento de computación del Tecnológico de Monterrey - Campus Querétaro (2010 - 2016)
+  - Diseño e Impartición de cursos Tec 20
 - Asistente de Investigación grupo DASL4LTD Querétaro (2008 - 2010)
+  - Desarrollo de Mapa de Memoria (modelo de representación computacional para conceptos)
 - Desarrollador y socio de Scriptorium despacho de desarrollo WEB (2008 - 2010)
+  - Desarrollo de sitios comerciales usando Drupal y módulos de PHP
 - Prácticante Mars Electronic International (2006 - 2007) 
+  - Soporte de T.I. para la infraestructura de redes en la planta.
 
 # Becarios
 
@@ -67,7 +72,12 @@ lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benj
   
 # Proyectos Previos
 
-- Creador y organizador de Kuxtal concurso para desarrollo de video juego serios para enseñar a niños pequeños habilidades de supervivencias. Este proyecto fue realizado en coolaboración con grupo CADENA (organización de rescatistas y apoyo a zonas de desastres) y el CENAPRED (Centro Nacional Para la Prevención de Desastres).   [Kuxtal](http://kuxtalvideojuegos.weebly.com/)  (2016)
+Creador y organizador de Kuxtal concurso para desarrollo de video juego serios para enseñar a niños pequeños habilidades de supervivencias. Este proyecto fue realizado en coolaboración con grupo CADENA (organización de rescatistas y apoyo a zonas de desastres) y el CENAPRED (Centro Nacional Para la Prevención de Desastres).   [Kuxtal](http://kuxtalvideojuegos.weebly.com/)  (2016)
+
+# Actividades Extracurriculares
+
+- Grupo representativo Staff Técnico en micrófonos y piso (2005 - 2007) 
+- Grupo representativo Comedia Musical con la obra "La Mujer del Panadero" (2003 - 2004) 
 
 # Hobbies
 el gato  | juegos de rol | juegos de mesa
