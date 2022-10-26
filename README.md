@@ -1,7 +1,8 @@
 # Benjamín Valdés Aguirre
-Actualmente soy Profesor deocente de tiempo completo en Querétaro en el Tec de Monterrey. Mi formación básica es como Ingeniero en Sistemas Computacionales (ISC) del Tec de Monterrey Campus Querétaro. Al graduarme en 2007 entré a trabajar en un laboratorio de investigación que se enfocaba en el desarrollo de tecnologías para la educación. Ahí trabajé 2 años en modelos computacionales para representar el conocimiento y habilidades haciendo uso de esquemas xmls. A la par, estudié una maestría en Administración de Tecnologías de Información en la Universidad Virtual, y al terminar en 2010, entré a formar parte del programa de becarios CONACYT para estudiar el Doctorado en Ciencias Computacionales en el Tec de Monterrey Campus Estado de México. Para el doctorado estuve colaborando con investigadores de la Universidad de Sussex en Reino Unido para realizar un análisis de la forma en la que agentes tutores inteligentes (Intelligent Tutoring Sytems) representan información sobre los estudiantes que interactúan con ellos. Durante el doctorado realicé estancias de investigacion en Universidad de Sussex. Durante el doctorado estuve trabajando como profesor de cátedra y al terminar en 2016 me integré al deaprtamento de computación del campus Querétaro como profesor de tiempo completo.
+Actualmente soy Profesor docente de tiempo completo en Querétaro en el Tec de Monterrey. Mi formación básica es como Ingeniero en Sistemas Computacionales (ISC) del Tec de Monterrey Campus Querétaro. Al graduarme en 2007 entré a trabajar en un laboratorio de investigación que se enfocaba en el desarrollo de tecnologías para la educación. Ahí trabajé 2 años en modelos computacionales para representar el conocimiento y habilidades haciendo uso de esquemas xmls. A la par, estudié una maestría en Administración de Tecnologías de Información en la Universidad Virtual, y al terminar en 2010, entré a formar parte del programa de becarios CONACYT para estudiar el Doctorado en Ciencias Computacionales en el Tec de Monterrey Campus Estado de México. Para el doctorado estuve colaborando con investigadores de la Universidad de Sussex en Reino Unido para realizar un análisis de la forma en la que agentes tutores inteligentes (Intelligent Tutoring Systems) representan información sobre los estudiantes que interactúan con ellos. Durante el doctorado realicé estancias de investigación en Universidad de Sussex. Durante el doctorado estuve trabajando como profesor de cátedra y al terminar en 2016 me integré al departamento de computación del campus Querétaro como profesor de tiempo completo.
 
-A lo largo de mi vida académica y profesional he vivido en varios paises y ciudades por medio de intercambios o estancias, pero me gusta más vivir en México y en particular Quéretaro. De manera resumida he vivido en Ciudad de México (antes D.F.), Estado de México, Boulder Colorado (U.S.A.), Praga (República Checa), Brighton (Inglaterra), Berkeley (U.S.A.), entre otros. 
+A lo largo de mi vida académica y profesional he vivido en varios países y ciudades por medio de intercambios o estancias, pero me gusta más vivir en México y en particular Querétaro. De manera resumida he vivido en Ciudad de México (antes D.F.), Estado de México, Boulder Colorado (U.S.A.), Praga (República Checa), Brighton (Inglaterra), Berkeley (U.S.A.), entre otros. 
+
 
 ### Contacto
 bvaldesa@tec.mx
@@ -15,7 +16,7 @@ lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benj
 
 - Inteligencia Artificial enfocada a la educación.
 - Video Juegos Serios.
-- Técnicas de transferencia de conocimiento y desarrollo basadas en juegos.
+- Técnicas de transferencia de conocimiento basadas en juegos.
 
 ## Formación Académica
 
@@ -38,7 +39,7 @@ lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benj
 
 ## Proyectos con Becarios
 
-[Sitio para proyectos de servicio beracio](benjaminva.github.io/Becarios)
+[Sitio para proyectos de servicio becario](benjaminva.github.io/Becarios)
 
 ## Información sobre Cursos 
 
