@@ -80,9 +80,17 @@ Creador y organizador de Kuxtal concurso para desarrollo de video juego serios p
 - Grupo representativo Staff Técnico en micrófonos y piso (2005 - 2007) 
 - Grupo representativo Comedia Musical con la obra "La Mujer del Panadero" (2003 - 2004) 
 
+| Staff | Comedia Musical |
+| :---------: | :---------: |
+| ![](images/staff.jpg) | ![](images/pandaero.jpg) |
+
+
 ## Hobbies
-el gato  | juegos de rol | juegos de mesa
-juegos de video | novelas | series
+
+
+| el gato  | juegos de rol | juegos de mesa | juegos de video | novelas |
+| :---------: | :---------: |  :---------: | :---------: |  :---------: |
+| ![](images/taro.jpg) | ![](images/feria.jpg) | ![](images/vikings.jpg) | ![](images/games.jpg) | ![](images/books.jpg) |
 
 ## FAQ
 [Frquentely Asked Questions](benjaminva.github.io/FAQ)
