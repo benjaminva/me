@@ -1,6 +1,6 @@
 # Benjamín Valdés Aguirre
 
-<img src="images/foto.jpg" width=50% height=50%>
+<img src="images/foto.jpg" width = 512 height= 348 >
 
 Actualmente soy profesor docente de tiempo completo en Querétaro en el Tec de Monterrey. Estudié Ingeniero en Sistemas Computacionales (ISC) del Tec de Monterrey Campus Querétaro, al graduarme en 2007 entré a trabajar a un laboratorio de investigación que se enfocaba en el desarrollo de tecnologías para la educación. Ahí trabajé 2 años en modelos computacionales para representar el conocimiento y habilidades haciendo uso de esquemas xmls. A la par, estudié una maestría en Administración de Tecnologías de Información en la Universidad Virtual, y al terminar en 2010, entré a formar parte del programa de becarios CONACYT para estudiar el Doctorado en Ciencias Computacionales en el Tec de Monterrey Campus Estado de México. Durante el doctorado realice un par de estancias en la Universidad de Sussex en Reino Unido para realizar un análisis de la forma en la que agentes tutores inteligentes (Intelligent Tutoring Systems) representan información sobre los estudiantes que interactúan con ellos. Mientras estaba en el doctorado comencé a trabajar como profesor de cátedra y al terminar el doctorado, en 2016, me integré al departamento de computación del campus Querétaro como profesor de tiempo completo.
 
