@@ -63,7 +63,7 @@ lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benj
 - TC3007  Concentración Avanzada para la ciencia de datos Bloque 2
    *  Machine Learning
    *  Reto
-- TC3002  Aplicaciones Avanzadas de ciencias computacionales
+- TC3002  Desarrollo de aplicaciones avanzadas de ciencias computacionales
    *  Aprendizaje Automático
  
 #### Tec 20
