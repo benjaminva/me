@@ -41,7 +41,7 @@ lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benj
 
 ## Proyectos con Becarios
 
-[Sitio para proyectos de servicio becario](benjaminva.github.io/Becarios)
+[Sitio para proyectos de servicio becario](https://benjaminva.github.io/Becarios)
 
 ## Información sobre Cursos 
 
