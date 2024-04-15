@@ -53,10 +53,11 @@ lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benj
 
 #### Tec 21
 
-- TC1028 Pensamiento Computacional Para la Ingeniería
-- TC1030 Peogramación Orientada a Objetos
-- TC1033 Pensamiento Computacional Orientado a Objetos
-- TC1031 Estructuras de Datos
+- [TC1028 Pensamiento Computacional Para la Ingeniería](https://benjaminva.github.io/TC1028-Pensamiento-Computacional-Ingeneria/)
+- [TC1030 Peogramación Orientada a Objetos](https://benjaminva.github.io/TC1030/)
+- [TC1033 Pensamiento Computacional Orientado a Objetos](https://benjaminva.github.io/TC1033/index.html)
+- [TC1031 Estructuras de Datos](https://benjaminva.github.io/TC1031-calendario/)
+- [TC2037 Implementation of Computacional Methods](https://benjaminva.github.io/TC2037-Metodos/)
 - TC3006  Concentración Avanzada para la ciencia de datos Bloque 1
    * Machine Learning
    * Software para Ciencia de datos
