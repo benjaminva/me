@@ -104,5 +104,3 @@ Creador y organizador de Kuxtal concurso para desarrollo de video juego serios p
 | :---------: | :---------: |  :---------: | :---------: |  :---------: |
 | ![](images/taro.jpg) | ![](images/feria.jpg) | ![](images/vikings.jpg) | ![](images/games.jpg) | ![](images/books.jpg) |
 
-## FAQ
-[Frquentely Asked Questions](benjaminva.github.io/FAQ)
