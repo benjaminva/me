@@ -13,6 +13,7 @@ bvaldesa@tec.mx
 
 ### Trabajos publicados: 
 lista de publicaciones [Research Gate](https://www.researchgate.net/profile/Benjamin-Valdes-2)
+ORCID [0000-0001-5915-2509](https://orcid.org/0000-0001-5915-2509)
 
 ### Intereses:
 
